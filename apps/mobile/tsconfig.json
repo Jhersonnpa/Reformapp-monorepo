@@ -1,0 +1,25 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    "jsx": "react-native",
+    "allowJs": true,
+    "noEmit": true,
+    "baseUrl": ".",
+    "paths": {
+      "@/*": [
+        "./*"
+      ]
+    }
+  },
+  "include": [
+    "app",
+    "components",
+    "services",
+    "store",
+    "i18n",
+    "theme",
+    "lib",
+    "expo-env.d.ts",
+    ".expo/types/**/*.ts"
+  ]
+}

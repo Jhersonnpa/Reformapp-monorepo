@@ -1,0 +1,11 @@
+node_modules/
+dist/
+build/
+.expo/
+.turbo/
+*.log
+.env
+.env.local
+coverage/
+drizzle/meta/
+.neon

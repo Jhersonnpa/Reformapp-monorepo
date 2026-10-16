@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "Reformapp",
+    "slug": "reformapp-mobile",
+    "version": "0.2.0",
+    "orientation": "portrait",
+    "scheme": "reformapp",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "dev.reformapp.mobile"
+    },
+    "android": {
+      "package": "dev.reformapp.mobile"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-secure-store",
+      "expo-splash-screen",
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "Reformapp necesita acceso a tus fotos para documentar las reformas."
+        }
+      ],
+      [
+        "expo-notifications",
+        {
+          "color": "#0F2B48"
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}

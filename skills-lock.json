@@ -1,0 +1,110 @@
+{
+  "version": 1,
+  "skills": {
+    "accessibility": {
+      "source": "addyosmani/web-quality-skills",
+      "sourceType": "autoskills-registry",
+      "computedHash": "2174f783a038a7ca4869c4c18e14726ec13b9c6b705d59253f647d0ca37cb78d"
+    },
+    "composition-patterns": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "autoskills-registry",
+      "computedHash": "c124390cc3441844903ada94cb5820b23d922f2d0ad34e01e029e410197c8a32"
+    },
+    "design-mobile-apps": {
+      "source": "sleekdotdesign/agent-skills",
+      "sourceType": "autoskills-registry",
+      "computedHash": "d643b67889f8b370b9e1fa762b48bdb28910a2b25dd81a25c4fe5a6f4299a153"
+    },
+    "drizzle": {
+      "source": "bobmatnyc/claude-mpm-skills",
+      "sourceType": "autoskills-registry",
+      "computedHash": "329c51bff48a92ddc4668c0396104ef47615db01b12ca894c2b322cbba19c0f0"
+    },
+    "eas-app-stores": {
+      "source": "expo/skills",
+      "sourceType": "autoskills-registry",
+      "computedHash": "7ac195573dbb9e4b47f0c931466a8b306670f716a0feed9f33a68e6603f41723"
+    },
+    "eas-hosting": {
+      "source": "expo/skills",
+      "sourceType": "autoskills-registry",
+      "computedHash": "bcbe0b3f8ab1a442d8336104beae19babccd97dc2b09e451a40b106e707e8480"
+    },
+    "eas-workflows": {
+      "source": "expo/skills",
+      "sourceType": "autoskills-registry",
+      "computedHash": "41700282a58ec518b85696827b36804831b3e2216274b3442fcc3158cb79ecd1"
+    },
+    "expo-data-fetching": {
+      "source": "expo/skills",
+      "sourceType": "autoskills-registry",
+      "computedHash": "fcc7a85d77494ecbac1b33203bd1bfee0c002105aa43f667f42275245132553d"
+    },
+    "expo-dev-client": {
+      "source": "expo/skills",
+      "sourceType": "autoskills-registry",
+      "computedHash": "b122869956b356742b56701e01fc0991d668462b05cba3c4f991c86ab9d7fbc4"
+    },
+    "expo-dom": {
+      "source": "expo/skills",
+      "sourceType": "autoskills-registry",
+      "computedHash": "e39dc6bf7857d1cb5539c283c0711b3db9f0d7084bcfe61c1e4f170405a353c0"
+    },
+    "expo-native-ui": {
+      "source": "expo/skills",
+      "sourceType": "autoskills-registry",
+      "computedHash": "5868bf65a4d432bd5282354d435c919233d25d77bff324f7ca52cf152b34a867"
+    },
+    "expo-upgrade": {
+      "source": "expo/skills",
+      "sourceType": "autoskills-registry",
+      "computedHash": "2274e2fb49ba5c4a3d5ee0bf2837a1591bb2fc60f56d0920ed34c7a6905057ad"
+    },
+    "frontend-design": {
+      "source": "anthropics/skills",
+      "sourceType": "autoskills-registry",
+      "computedHash": "a4e6516a601f72ffd8bcd0d64609e8ba724d2ce92569a059a6890a5caadf072b"
+    },
+    "hono": {
+      "source": "honojs/skills",
+      "sourceType": "autoskills-registry",
+      "computedHash": "ee8309477b66026b815cabedc7b8bd4709741c602802efd31dffc94c57ff7190"
+    },
+    "nodejs-backend-patterns": {
+      "source": "wshobson/agents",
+      "sourceType": "autoskills-registry",
+      "computedHash": "ec099fc7d7ece12e8a89c24b12eff36f27dd243db15c5a70f3df8406ec9c738e"
+    },
+    "nodejs-best-practices": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "autoskills-registry",
+      "computedHash": "2c543ab51c9c4093c8a94aa615f39ca55d93835816aeeaa5bbd89261d85c584c"
+    },
+    "react-best-practices": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "autoskills-registry",
+      "computedHash": "502eb06700e2c3cb1bd7f710860528f72281320bd5171a2087b05a090b573dc1"
+    },
+    "seo": {
+      "source": "addyosmani/web-quality-skills",
+      "sourceType": "autoskills-registry",
+      "computedHash": "7495da57766c99f787a729d4a21234ecb5d29d90f304a0d9a5996dcdc1eec048"
+    },
+    "turborepo": {
+      "source": "vercel/turborepo",
+      "sourceType": "autoskills-registry",
+      "computedHash": "0f42bba21f1ccfae78255a5d8a5c96b341a4348e9c16fa55edf8d9a4ecbf77a6"
+    },
+    "typescript-advanced-types": {
+      "source": "wshobson/agents",
+      "sourceType": "autoskills-registry",
+      "computedHash": "cb5d18bc19191b388cc49c15ff98dcbc714fa343373d078be00833e8a18ef291"
+    },
+    "zod": {
+      "source": "pproenca/dot-skills",
+      "sourceType": "autoskills-registry",
+      "computedHash": "2e6455bb2c68a46f88db0fef1151cdb4d0a50b57b6a0cdbe7fa3b68641adf45b"
+    }
+  }
+}
